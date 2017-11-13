@@ -1,5 +1,5 @@
 {
-  "name": "winston-redis",
+  "name": "winston-redis-expiry2",
   "description": "A fixed-length Redis transport for winston",
   "version": "1.0.0",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
